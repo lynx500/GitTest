@@ -6,5 +6,6 @@ public class Fourth {
     public void useless4() {
         System.out.println("fishes...");
         System.out.println("MORE FISHES!");
+        System.out.println("THE MOST FISHES!!!");
     }
 }
